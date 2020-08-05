@@ -49,6 +49,14 @@ export default class Platforms {
     })
     this.textGroup.get().spawn(0, 0, 0)
     this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
+    this.textGroup.get().spawn(0, 0, 0)
 
     this.generateLevel()
   }
